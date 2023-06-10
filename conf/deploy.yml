@@ -1,0 +1,10 @@
+elasticsearch:
+  address: "http://35.243.172.250:9200"
+  username: "gary"
+  password: "et060202"
+
+gcs:
+  bucket: "appstore_bucket123"
+
+token:
+  secret: "secret"
