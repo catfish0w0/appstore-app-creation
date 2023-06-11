@@ -1,5 +1,5 @@
 # Appstore-Clone-Puchasing-Platform
-This is an app designed to clone the idea of Twitch using Twitch API. The idea is to implement a content based recommendation system on a web-app, where it takes the search history and favorite record as parameters to recommend stream/clips/videos.
+This web-app is designated to implement an appstore, where user can sign up and add its own app to the product with a price tag, following with the checkout action with Stripe API.
 
 ## Overview
 ### About this Project
