@@ -14,7 +14,7 @@ This web-app is designated to implement an appstore, where user can sign up and 
 1. gain practice in full-stack development, and using Golang as a backend development
 
 ### Screenshot
-![My Image]()
+![My Image](./Appstore.png)
 
 ### Links
 * Link      : [website](https://prod.dbda87htgrwzy.amplifyapp.com/)
